@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="En"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="En" /><updated>2018-06-15T13:34:26+03:00</updated><id>http://localhost:4000/</id><title type="html">ak-develop.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="Ru"><title type="html">Угломер 360</title><link href="http://localhost:4000/app/2018/04/20/ProtractorRu.html" rel="alternate" type="text/html" title="Угломер 360" /><published>2018-04-20T15:50:55+03:00</published><updated>2018-04-20T15:50:55+03:00</updated><id>http://localhost:4000/app/2018/04/20/ProtractorRu</id><content type="html" xml:base="http://localhost:4000/app/2018/04/20/ProtractorRu.html">&lt;style&gt;
-   .leftimg {
-    float:left; /* Выравнивание по левому краю */
-    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
-   }
-   .rightimg  {
-    float: right; /* Выравнивание по правому краю  */ 
-    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
-   }
-      .centerimg  {
-    display: block;
-    margin: 0 auto;
-   }
-   .centertext {
-   text-align: center;
-   position: inherit;
-   }
-  &lt;/style&gt;
-
-&lt;div class=&quot;layer2&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="En"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="En" /><updated>2018-06-21T11:18:29+03:00</updated><id>http://localhost:4000/</id><title type="html">ak-develop.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="Ru"><title type="html">Угломер 360</title><link href="http://localhost:4000/app/2018/04/20/ProtractorRu.html" rel="alternate" type="text/html" title="Угломер 360" /><published>2018-04-20T00:00:00+03:00</published><updated>2018-04-20T00:00:00+03:00</updated><id>http://localhost:4000/app/2018/04/20/ProtractorRu</id><content type="html" xml:base="http://localhost:4000/app/2018/04/20/ProtractorRu.html">&lt;div class=&quot;layer2&quot;&gt;
 
 	&lt;p&gt;&lt;img src=&quot;/assets/1.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;leftimg&quot; /&gt;
 	Угломер 360 это прложение для быстрого и легкого измерения любых углов. Приложение позволяет измерять углы как на любых фотографиях или картинках из библиотеки, так и с камеры в реальном времени.
@@ -25,44 +6,24 @@
 	
 	 &lt;img src=&quot;/assets/4.png&quot; alt=&quot;Color schema&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;rightimg&quot; /&gt;
 	 
-	 &lt;div class=&quot;centertext&quot;&gt;&lt;h2&gt;Никаких ограничейний!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+	 &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;Никаких ограничейний!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
 	 &lt;p&gt;Масштабирование и перемещение изображения позволяет правильно установить измеритель, благодаря чему достигается высокая точность измерения углов до 1 секунды. Добавляйте новые измерители на объект и получайте данные нескольких углов одновременно, а если какой то из измерителей больше не нужен, просто удалите его. Вы можете добавить такое количество измерителей на измеряемый объект, какое посчитаете необходимым, чтобы получить данные о всех измеряемых объектах сразу. Это дает возможность легко сравнивать полученные значения.&lt;/p&gt;
 
 	&lt;p&gt; Возможность инвертирования позволяет получать данные как внешних, так и внутренних углов, без необходимости проведения каких-либо расчетов. Не остается никаких ограничений, получайте точную информацию о измеренных углах с камеры в реальном времени или с любого изображения когда угодно. &lt;/p&gt;
-    &lt;div class=&quot;centertext&quot;&gt;
-	&lt;br /&gt;
-	  &lt;h2&gt;Меняйте цвета!&lt;/h2&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;
+    &lt;div&gt;&lt;br /&gt;&lt;h2 class=&quot;centertext&quot;&gt;Меняйте цвета!&lt;/h2&gt;&lt;/div&gt;
+	 
+  &lt;p&gt;
      Назначайте цвета для каждого измерителя отдельно или установите цвет по умолчанию и все новые измерители будут создаваться с выбраными Вами цветовыми схемами. Настраивайте цветовые схемы как Вам удобно, установите цвет только для линий, дуги и полученных данных по отдельности или для всего сразу! Цветовой круг поможет вам выбрать нужный цвет, а при помощи шкалы осветвлите или затемните его. Выбирайте цвета так чтобы измеритель выделялся над измеряемым объектом.
 	 &lt;br /&gt;
-	  &lt;div class=&quot;centertext&quot;&gt;&lt;h2&gt;Проще простого&lt;/h2&gt;&lt;/div&gt;
+	  &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;Проще простого&lt;/h2&gt;&lt;/div&gt;
 	 &lt;p&gt;Удобный и интуитивно понятный интерфейс позволяет легко, быстро и просто использовать возможности приложения для определения искомых углов в любое время и в любом месте. Просто установите измеритель на контур измеряемого объекта и сразу получите измеренное значение.&lt;/p&gt;
 	 &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/3.png&quot; alt=&quot;Protractor&quot; width=&quot;445&quot; height=&quot;205&quot; class=&quot;centerimg&quot; /&gt;
+	 
+ &lt;p&gt;&lt;img src=&quot;/assets/3.png&quot; alt=&quot;Protractor&quot; width=&quot;445&quot; height=&quot;205&quot; class=&quot;centerimg&quot; /&gt;
  
  &lt;/p&gt;
-&lt;p&gt;Возможности Угломера делают его незаменимым инструментом дающим возможность измерения нужных углов на разных объектах, поверхностях и окружающих предметах.&lt;/p&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/protractor.png%22%20alt=%22Protractor%22%20width=%22150%22%20height=%22150%22%3E" /></entry><entry xml:lang="En"><title type="html">Angle Meter 360</title><link href="http://localhost:4000/app/2018/04/20/ProtractorEn.html" rel="alternate" type="text/html" title="Angle Meter 360" /><published>2018-04-20T00:00:00+03:00</published><updated>2018-04-20T00:00:00+03:00</updated><id>http://localhost:4000/app/2018/04/20/ProtractorEn</id><content type="html" xml:base="http://localhost:4000/app/2018/04/20/ProtractorEn.html">&lt;style&gt;
-   .leftimg {
-    float:left; /* Выравнивание по левому краю */
-    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
-   }
-   .rightimg  {
-    float: right; /* Выравнивание по правому краю  */ 
-    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
-   }
-      .centerimg  {
-    display: block;
-    margin: 0 auto;
-   }
-   .centertext {
-   text-align: center;
-   position: inherit;
-   }
-  &lt;/style&gt;
-
-&lt;div class=&quot;layer2&quot;&gt;
+Возможности Угломера делают его незаменимым инструментом дающим возможность измерения нужных углов на разных объектах, поверхностях и окружающих предметах.
+&lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/protractor.png%22%20alt=%22Protractor%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry><entry xml:lang="En"><title type="html">Angle Meter 360</title><link href="http://localhost:4000/app/2018/04/20/ProtractorEn.html" rel="alternate" type="text/html" title="Angle Meter 360" /><published>2018-04-20T00:00:00+03:00</published><updated>2018-04-20T00:00:00+03:00</updated><id>http://localhost:4000/app/2018/04/20/ProtractorEn</id><content type="html" xml:base="http://localhost:4000/app/2018/04/20/ProtractorEn.html">&lt;div class=&quot;layer2&quot;&gt;
 
 	&lt;p&gt;&lt;img src=&quot;/assets/1.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;leftimg&quot; /&gt;
 	Angle Meter 360 is an application for fast and easy measurement of any angles. The application allows you to measure angles on any photos or pictures from the library, or from the camera in real time.
@@ -70,22 +31,21 @@ Use the camera mode and measure the angles of the surrounding objects or take a 
 	
 	 &lt;img src=&quot;/assets/4.png&quot; alt=&quot;Color schema&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;rightimg&quot; /&gt;
 	
-	 &lt;div class=&quot;centertext&quot;&gt;&lt;h2&gt;Without restrictions!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+	 &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;Without restrictions!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
 	 &lt;p&gt;Scaling and moving the image allows you to correctly install the meter, which allows for high accuracy of measuring angles up to 1 second. Add new meters to the object and get data from several angles at the same time, and if any of the meters is no longer needed, just delete it. You can add as many meters to the object as you need to get data about all the measured objects at once. This makes it possible to easily compare the values obtained.&lt;/p&gt;
 
 	&lt;p&gt; The possibility of inverting allows you to receive data from both external and internal corners, without the need for any calculations. There are no restrictions, get accurate information about the measured angles from the camera in real time or from any image at any time. &lt;/p&gt;
-    &lt;div class=&quot;centertext&quot;&gt;
-	&lt;br /&gt;&lt;br /&gt;
-	  &lt;h2&gt;Change colors!&lt;/h2&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;
+    &lt;div&gt; &lt;br /&gt;&lt;br /&gt; &lt;h2 class=&quot;centertext&quot;&gt;Change colors!&lt;/h2&gt;&lt;/div&gt;
+	 
+  &lt;p&gt;
      Assign colors for each meter separately or set the default color and all new meters will be created with the color schemes you have chosen. Customize color schemes as you like, set the color only for lines, arc and data received individually or for the whole thing! The color wheel will help you choose the color you want, and use the scale to brighten or darken it. Select colors so that the meter is highlighted above the measured object.
 	 &lt;br /&gt;
-	  &lt;div class=&quot;centertext&quot;&gt;&lt;h2&gt;As easy as pie&lt;/h2&gt;&lt;/div&gt;
+	  &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;As easy as pie&lt;/h2&gt;&lt;/div&gt;
 	 &lt;p&gt;A user-friendly and intuitive interface allows you to easily, quickly and easily use the application's capabilities to determine the corners you need at any time and in any place. Simply place the meter on the contour of the measured object and immediately get the measured value.&lt;/p&gt;
 	 &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/3.png&quot; alt=&quot;Protractor&quot; width=&quot;445&quot; height=&quot;205&quot; class=&quot;centerimg&quot; /&gt;
+	 
+ &lt;p&gt;&lt;img src=&quot;/assets/3.png&quot; alt=&quot;Protractor&quot; width=&quot;445&quot; height=&quot;205&quot; class=&quot;centerimg&quot; /&gt;
  
  &lt;/p&gt;
-&lt;p&gt;Angle Meter’s capabilities make it an indispensable tool for measuring the right angles on different objects, surfaces and surrounding objects.&lt;/p&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/protractor.png%22%20alt=%22Protractor%22%20width=%22150%22%20height=%22150%22%3E" /></entry></feed>
+Angle Meter's capabilities make it an indispensable tool for measuring the right angles on different objects, surfaces and surrounding objects.
+&lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/protractor.png%22%20alt=%22Protractor%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry></feed>
