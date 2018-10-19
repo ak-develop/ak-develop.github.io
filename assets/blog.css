@@ -171,6 +171,10 @@ Blog image sizes and position
    text-align: center;
    position: inherit;
    }
+   .lefttext {
+   text-align: left;
+   position: inherit;
+   }
    
    
    
@@ -208,6 +212,9 @@ Blog image sizes and position
 	}
 	.centertext {
 	font-size: 22px;
+	}
+	.lefttext {
+	font-size: 15px;
 	}
 	.layer2{
 	font-size: 13px;
@@ -251,6 +258,9 @@ Blog image sizes and position
 	.centertext {
 	font-size: 26px;
 	}
+	.lefttext {
+	font-size: 16px;
+	}
 	.layer2{
 	font-size: 14px;
 	}
@@ -290,6 +300,9 @@ Blog image sizes and position
 	.centertext {
 	font-size: 28px;
 	}
+	.lefttext {
+	font-size: 18px;
+	}
 	.layer2{
 	font-size: 16px;
 	}
@@ -328,6 +341,9 @@ Blog image sizes and position
 	}
 	.centertext {
 	font-size: 30px;
+	}
+	.lefttext {
+	font-size: 20px;
 	}
 	.layer2{
 	font-size: 18px;
