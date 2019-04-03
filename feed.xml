@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="En"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="En" /><updated>2018-06-21T11:18:29+03:00</updated><id>http://localhost:4000/</id><title type="html">ak-develop.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="Ru"><title type="html">Угломер 360</title><link href="http://localhost:4000/app/2018/04/20/ProtractorRu.html" rel="alternate" type="text/html" title="Угломер 360" /><published>2018-04-20T00:00:00+03:00</published><updated>2018-04-20T00:00:00+03:00</updated><id>http://localhost:4000/app/2018/04/20/ProtractorRu</id><content type="html" xml:base="http://localhost:4000/app/2018/04/20/ProtractorRu.html">&lt;div class=&quot;layer2&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="En"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="En" /><updated>2019-04-03T17:10:16+03:00</updated><id>http://localhost:4000/</id><title type="html">ak-develop.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="Ru"><title type="html">Пульсметр</title><link href="http://localhost:4000/app/2019/03/30/PulsmeterRu.html" rel="alternate" type="text/html" title="Пульсметр" /><published>2019-03-30T00:00:00+03:00</published><updated>2019-03-30T00:00:00+03:00</updated><id>http://localhost:4000/app/2019/03/30/PulsmeterRu</id><content type="html" xml:base="http://localhost:4000/app/2019/03/30/PulsmeterRu.html">&lt;div class=&quot;layer2&quot;&gt;
+
+	&lt;p&gt;&lt;img src=&quot;/assets/puls/p4.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;leftimg&quot; /&gt;
+	Пульсметр это приложение для быстрого измерения коэффициента пульсации любых источников света. Приложение позволяет измерять пульсации у светодиодных, галогенных, люминесцентных ламп и ламп накаливания, различных светильников, жидкокристаллических и светодиодных мониторов и телевизоров.
+	
+	 &lt;img src=&quot;/assets/puls/pru.png&quot; alt=&quot;instructions&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;rightimg&quot; /&gt;
+	
+	 &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;Вред пульсаций!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+	 &lt;p&gt;Высокий коэффициент пульсации крайне отрицательно влияет на мозг, и как следствие, вызывает повышенную утомляемость и плохое самочувствие. Появляется напряжение в глазах, усталость, трудность сосредоточения на сложной работе, головная боль.Освещение пульсирующим светом опасно при наличии в поле зрения движущихся и вращающихся объектов возникновением стробоскопического эффекта - зрительной иллюзией неподвижности или мнимого движения предмета.&lt;/p&gt;
+
+	 &lt;div&gt; &lt;h2 class=&quot;centertext&quot;&gt;Легко в использовании!&lt;/h2&gt;&lt;/div&gt;
+	 
+  &lt;p&gt;
+     Для того чтобы провести замеры необходимо поднести телефон к измеряемому источнику и нажать кнопку начала измерения. Результаты измерения будут обновляться в реальном времени, стрелка будет показывать на коэффициент пульсации, а шкала заполняться от зеленого до красного цвета обозначая соответствие пульсации нормам безопасности. Для получения лучших результатов необходимо ровно держать телефон. Если телефон не зафиксирован то в левом нижнем углу экрана появится изображение трясущегося устройства и показания будут сильно отличаться от действительных. Показания не являются 100% достоверными и средняя погрешность в зависимости от источника света и частоты пульсацый может быть больше 10%.
+	 &lt;br /&gt;
+	 
+	 &lt;p&gt;&lt;img src=&quot;/assets/puls/p1.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/puls/p3.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/puls/p5.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/puls/p6.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;/p&gt;
+	 
+	 &lt;p&gt;&lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/ru/app/%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BC%D0%B5%D1%82%D1%80/id1456605148?mt=8&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ru-ru/badge-lrg.svg?releaseDate=2019-03-26&amp;amp;kind=iossoftware&amp;amp;bubble=ios_apps) no-repeat;width:135px;height:40px;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/pulsmeter.png%22%20alt=%22Pulsmeter%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry><entry xml:lang="En"><title type="html">Illuminance Pulsation Meter</title><link href="http://localhost:4000/app/2019/03/30/PulsmeterEn.html" rel="alternate" type="text/html" title="Illuminance Pulsation Meter" /><published>2019-03-30T00:00:00+03:00</published><updated>2019-03-30T00:00:00+03:00</updated><id>http://localhost:4000/app/2019/03/30/PulsmeterEn</id><content type="html" xml:base="http://localhost:4000/app/2019/03/30/PulsmeterEn.html">&lt;div class=&quot;layer2&quot;&gt;
+
+	&lt;p&gt;&lt;img src=&quot;/assets/puls/p4.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;leftimg&quot; /&gt;
+	Pulsemeter is an application for quick measurement of the pulsation coefficient of any light sources. The application allows you to measure the ripple in LED, halogen, fluorescent lamps and incandescent lamps, various lamps, LCD and LED monitors and TVs.
+	
+	 &lt;img src=&quot;/assets/puls/pen.png&quot; alt=&quot;instructions&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;rightimg&quot; /&gt;
+	
+	 &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;Harm ripple!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+	 &lt;p&gt;A high coefficient of pulsation extremely negatively affects the brain, and as a result, causes increased fatigue and poor health. There is tension in the eyes, fatigue, difficulty concentrating on difficult work, headache. Illumination with pulsating light is dangerous if moving and rotating objects in the field of view cause a stroboscopic effect - a visual illusion of immobility or imaginary movement of an object.&lt;/p&gt;
+
+    &lt;div&gt; &lt;h2 class=&quot;centertext&quot;&gt;Easy to use!&lt;/h2&gt;&lt;/div&gt;
+	 
+  &lt;p&gt;
+     In order to take measurements, you need to bring the phone to the measured source and press the start button. The measurement results will be updated in real time, the arrow will show the ripple factor, and the scale will be filled from green to red indicating the ripple compliance with safety standards. For best results, keep your phone straight. If the phone is not fixed, an image of the shaking device will appear in the lower left corner of the screen and the readings will be very different from the actual ones. The readings are not 100% reliable and the average error depending on the light source and the frequency of pulsation can be more than 10%.
+	 &lt;br /&gt;
+	 
+	 &lt;p&gt;&lt;img src=&quot;/assets/puls/p1.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/puls/p3.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/puls/p5.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/puls/p6.png&quot; alt=&quot;pulsmeter&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;/p&gt;
+	 
+	 &lt;p&gt;&lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/illuminance-pulsation-meter/id1456605148?mt=8&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ru-ru/badge-lrg.svg?releaseDate=2019-03-26&amp;amp;kind=iossoftware&amp;amp;bubble=ios_apps) no-repeat;width:135px;height:40px;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/pulsmeter.png%22%20alt=%22Pulsmeter%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry><entry xml:lang="Ru"><title type="html">Угломер 360</title><link href="http://localhost:4000/app/2018/04/20/ProtractorRu.html" rel="alternate" type="text/html" title="Угломер 360" /><published>2018-04-20T00:00:00+03:00</published><updated>2018-04-20T00:00:00+03:00</updated><id>http://localhost:4000/app/2018/04/20/ProtractorRu</id><content type="html" xml:base="http://localhost:4000/app/2018/04/20/ProtractorRu.html">&lt;div class=&quot;layer2&quot;&gt;
 
 	&lt;p&gt;&lt;img src=&quot;/assets/1.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;leftimg&quot; /&gt;
 	Угломер 360 это прложение для быстрого и легкого измерения любых углов. Приложение позволяет измерять углы как на любых фотографиях или картинках из библиотеки, так и с камеры в реальном времени.
@@ -23,6 +69,10 @@
  
  &lt;/p&gt;
 Возможности Угломера делают его незаменимым инструментом дающим возможность измерения нужных углов на разных объектах, поверхностях и окружающих предметах.
+
+&lt;p&gt;&lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/ru/app/%D1%83%D0%B3%D0%BB%D0%BE%D0%BC%D0%B5%D1%80-360/id1393860479?mt=8&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ru-ru/badge-lrg.svg?releaseDate=2018-07-10&amp;amp;kind=iossoftware&amp;amp;bubble=ios_apps) no-repeat;width:135px;height:40px;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+
+
 &lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/protractor.png%22%20alt=%22Protractor%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry><entry xml:lang="En"><title type="html">Angle Meter 360</title><link href="http://localhost:4000/app/2018/04/20/ProtractorEn.html" rel="alternate" type="text/html" title="Angle Meter 360" /><published>2018-04-20T00:00:00+03:00</published><updated>2018-04-20T00:00:00+03:00</updated><id>http://localhost:4000/app/2018/04/20/ProtractorEn</id><content type="html" xml:base="http://localhost:4000/app/2018/04/20/ProtractorEn.html">&lt;div class=&quot;layer2&quot;&gt;
 
 	&lt;p&gt;&lt;img src=&quot;/assets/1.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;leftimg&quot; /&gt;
@@ -48,4 +98,6 @@ Use the camera mode and measure the angles of the surrounding objects or take a 
  
  &lt;/p&gt;
 Angle Meter's capabilities make it an indispensable tool for measuring the right angles on different objects, surfaces and surrounding objects.
+
+&lt;p&gt;&lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/angle-meter-360/id1393860479?mt=8&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ru-ru/badge-lrg.svg?releaseDate=2018-07-10&amp;amp;kind=iossoftware&amp;amp;bubble=ios_apps) no-repeat;width:135px;height:40px;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/protractor.png%22%20alt=%22Protractor%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry></feed>

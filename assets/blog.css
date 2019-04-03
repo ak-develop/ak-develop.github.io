@@ -175,7 +175,10 @@ Blog image sizes and position
    text-align: left;
    position: inherit;
    }
-   
+    .centerimges  {
+    float: center;
+    margin: 0 auto;
+   }
    
    
    @media (max-width: 399px) {
