@@ -179,6 +179,15 @@ Blog image sizes and position
     float: center;
     margin: 0 auto;
    }
+   .centerimgess  {
+    margin: 0 auto;  
+  text-align: center; 
+   }
+   .centeredimges  {
+    display:block;
+        margin-left: auto;
+        margin-right: auto;
+   }
    
    
    @media (max-width: 399px) {
@@ -213,6 +222,14 @@ Blog image sizes and position
 	width:222px;
 	height:102px;
 	}
+	.centerimges  {
+    width:102px;
+	height:222px;
+   }
+	.centeredimges  {
+    width:210px;
+	height:280px;
+   }
 	.centertext {
 	font-size: 22px;
 	}
@@ -258,6 +275,14 @@ Blog image sizes and position
 	width:296px;
 	height:136px;
 	}
+	.centerimges  {
+    width:136px;
+	height:296px;
+   }
+	.centeredimges  {
+    width:280px;
+	height:372px;
+   }
 	.centertext {
 	font-size: 26px;
 	}
@@ -300,6 +325,14 @@ Blog image sizes and position
 	width:370px;
 	height:170px;
 	}
+	.centerimges  {
+    width:170px;
+	height:370px;
+   }
+   .centeredimges  {
+    width:350px;
+	height:466px;
+   }
 	.centertext {
 	font-size: 28px;
 	}
@@ -342,6 +375,14 @@ Blog image sizes and position
 	width:445px;
 	height:205px;
 	}
+	.centerimges  {
+    width:205px;
+	height:445px;
+   }
+   .centeredimges  {
+    width:420px;
+	height:560px;
+   }
 	.centertext {
 	font-size: 30px;
 	}

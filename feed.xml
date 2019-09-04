@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="En"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="En" /><updated>2019-04-03T17:10:16+03:00</updated><id>http://localhost:4000/</id><title type="html">ak-develop.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="Ru"><title type="html">Пульсметр</title><link href="http://localhost:4000/app/2019/03/30/PulsmeterRu.html" rel="alternate" type="text/html" title="Пульсметр" /><published>2019-03-30T00:00:00+03:00</published><updated>2019-03-30T00:00:00+03:00</updated><id>http://localhost:4000/app/2019/03/30/PulsmeterRu</id><content type="html" xml:base="http://localhost:4000/app/2019/03/30/PulsmeterRu.html">&lt;div class=&quot;layer2&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="En"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="En" /><updated>2019-09-04T17:17:54+03:00</updated><id>http://localhost:4000/</id><title type="html">ak-develop.com</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry xml:lang="Ru"><title type="html">Thermal Transmittance Calc</title><link href="http://localhost:4000/app/2019/08/29/ThermalTransmittanceCalcRu.html" rel="alternate" type="text/html" title="Thermal Transmittance Calc" /><published>2019-08-29T00:00:00+03:00</published><updated>2019-08-29T00:00:00+03:00</updated><id>http://localhost:4000/app/2019/08/29/ThermalTransmittanceCalcRu</id><content type="html" xml:base="http://localhost:4000/app/2019/08/29/ThermalTransmittanceCalcRu.html">&lt;div class=&quot;layer2&quot;&gt;
+
+	&lt;p&gt;
+	Thermal Transmittance Calc позволяет получать данные в графиеческом виде о распространнении тепла и влаги, а так же о месте нахождения точки росы, внутри строительных материалов. Это позволяет подобрать материалы так чтобы в строительных конструкции не образовывался конденсат и минимизировать количество тепловых потерь.
+	&lt;br /&gt;
+	
+	&lt;p style=&quot;text-align:center&quot;&gt;
+	 &lt;img src=&quot;/assets/ThermalCalc/ru/01.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/ThermalCalc/ru/02.png&quot; alt=&quot;ThermalCalc&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+&lt;/p&gt;
+	
+	 &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;Быстро и просто!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+	 &lt;p&gt;Укажите температуру и влажноость окружающего воздуха внутри и снаружи конструкции и выбирайте необходимые материалы. Сразу же будет построен график по которому можно легко проследить как будет меняться температура и влажность и каковы будут значения точки росы. Большая база материалов позволит проверить любой вариант конструкции, но если нужного нет в списке просто создайте новый материал.&lt;/p&gt;
+
+	 &lt;p&gt;&lt;img src=&quot;/assets/ThermalCalc/ru/03.png&quot; alt=&quot;ThermalCalc&quot; width=&quot;420&quot; height=&quot;560&quot; class=&quot;centeredimges&quot; /&gt;
+	 &lt;/p&gt;
+	 
+    &lt;div&gt; &lt;h2 class=&quot;centertext&quot;&gt;Система мер!&lt;/h2&gt;&lt;/div&gt;
+	 
+  &lt;p&gt;
+     Возможность вводить и получать данные как в градусах цельсия так и в градусах фаренгейта, так же возможность вводить толщину материалов в дюймах или сантиметрах.&lt;/p&gt;
+	 
+	 &lt;p&gt;&lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/thermal-transmittance-calc/id1473745621?mt=8&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ru-ru/badge-lrg.svg?releaseDate=2019-08-15&amp;amp;kind=iossoftware&amp;amp;bubble=ios_apps) no-repeat;width:135px;height:40px;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+	 
+	 
+	 
+	 
+	  
+	 
+	 
+&lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/uValueCalc.png%22%20alt=%22ThermalTransmittanceCalc%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry><entry xml:lang="En"><title type="html">Thermal Transmittance Calc</title><link href="http://localhost:4000/app/2019/08/29/ThermalTransmittanceCalcEn.html" rel="alternate" type="text/html" title="Thermal Transmittance Calc" /><published>2019-08-29T00:00:00+03:00</published><updated>2019-08-29T00:00:00+03:00</updated><id>http://localhost:4000/app/2019/08/29/ThermalTransmittanceCalcEn</id><content type="html" xml:base="http://localhost:4000/app/2019/08/29/ThermalTransmittanceCalcEn.html">&lt;div class=&quot;layer2&quot;&gt;
+	&lt;p&gt;
+	Thermal Transmittance Calc provides graphical data on the distribution of heat and moisture, as well as the location of the dew point inside building materials. This allows you to select materials so that condensation does not form in the building structure and minimize the amount of heat loss.
+	&lt;br /&gt;
+	
+	&lt;p style=&quot;text-align:center&quot;&gt;
+	 &lt;img src=&quot;/assets/ThermalCalc/01.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+	 &lt;img src=&quot;/assets/ThermalCalc/02.png&quot; alt=&quot;ThermalCalc&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;centerimges&quot; /&gt;
+&lt;/p&gt;
+	
+	 &lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;Quick and easy!&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+	 &lt;p&gt;Indicate the temperature and humidity of the ambient air inside and outside the structure and select the necessary materials. A graph will be built immediately by which you can easily track how the temperature and humidity will change and what the dew point will be. A large database of materials will allow you to check any design option, but if the desired one is not in the list, just create the necessary material.&lt;/p&gt;
+
+	 &lt;p&gt;&lt;img src=&quot;/assets/ThermalCalc/03.png&quot; alt=&quot;ThermalCalc&quot; width=&quot;420&quot; height=&quot;560&quot; class=&quot;centeredimges&quot; /&gt;
+	 &lt;/p&gt;
+	 
+    &lt;div&gt; &lt;h2 class=&quot;centertext&quot;&gt;System of measures!&lt;/h2&gt;&lt;/div&gt;
+	 
+  &lt;p&gt;
+     The ability to enter and receive data in degrees Celsius and degrees Fahrenheit, as well as the ability to enter the thickness of materials in inches or centimeters.&lt;/p&gt;
+	 
+	 &lt;p&gt;&lt;div&gt;&lt;h2 class=&quot;centertext&quot;&gt;&lt;a href=&quot;https://apps.apple.com/us/app/thermal-transmittance-calc/id1473745621?mt=8&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ru-ru/badge-lrg.svg?releaseDate=2019-08-15&amp;amp;kind=iossoftware&amp;amp;bubble=ios_apps) no-repeat;width:135px;height:40px;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/p&gt;
+
+	 
+	 
+&lt;/div&gt;</content><author><name></name></author><category term="app" /><summary type="html">Thermal Transmittance Calc provides graphical data on the distribution of heat and moisture, as well as the location of the dew point inside building materials. This allows you to select materials so that condensation does not form in the building structure and minimize the amount of heat loss. Quick and easy! Indicate the temperature and humidity of the ambient air inside and outside the structure and select the necessary materials. A graph will be built immediately by which you can easily track how the temperature and humidity will change and what the dew point will be. A large database of materials will allow you to check any design option, but if the desired one is not in the list, just create the necessary material.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%3Cimg%20src=%22/assets/uValueCalc.png%22%20alt=%22ThermalTransmittanceCalc%22%20width=%22150%22%20height=%22150%22%20class=%22icon%22%3E" /></entry><entry xml:lang="Ru"><title type="html">Пульсметр</title><link href="http://localhost:4000/app/2019/03/30/PulsmeterRu.html" rel="alternate" type="text/html" title="Пульсметр" /><published>2019-03-30T00:00:00+03:00</published><updated>2019-03-30T00:00:00+03:00</updated><id>http://localhost:4000/app/2019/03/30/PulsmeterRu</id><content type="html" xml:base="http://localhost:4000/app/2019/03/30/PulsmeterRu.html">&lt;div class=&quot;layer2&quot;&gt;
 
 	&lt;p&gt;&lt;img src=&quot;/assets/puls/p4.png&quot; width=&quot;205&quot; height=&quot;445&quot; class=&quot;leftimg&quot; /&gt;
 	Пульсметр это приложение для быстрого измерения коэффициента пульсации любых источников света. Приложение позволяет измерять пульсации у светодиодных, галогенных, люминесцентных ламп и ламп накаливания, различных светильников, жидкокристаллических и светодиодных мониторов и телевизоров.
