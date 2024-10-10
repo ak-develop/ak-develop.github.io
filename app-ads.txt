@@ -32,6 +32,7 @@ advlion.com,3108,RESELLER,58b813a6c4d05071
 algorix.co,54400,RESELLER,5b394c12fea27a1d
 algorix.co,54616,RESELLER,5b394c12fea27a1d
 algorix.co,60016,RESELLER,5b394c12fea27a1d
+applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
 app-stock.com,256917,RESELLER
 app-stock.com,315417,RESELLER,ed8c126ea5971415
 appads.in,105536,RESELLER
@@ -282,6 +283,7 @@ xandr.com,14082,RESELLER,f5ab79cb980f11d1
 xandr.com,7353,RESELLER,f5ab79cb980f11d1
 xandr.com,8804,RESELLER,f5ab79cb980f11d1
 xapads.com,117219,RESELLER
+yandex.com,302446435,reseller
 yahoo.com,59262,RESELLER,e1a5b5b6e3255540
 yahoo.com,59318,RESELLER,e1a5b5b6e3255540
 yandex.com,63904735,RESELLER
