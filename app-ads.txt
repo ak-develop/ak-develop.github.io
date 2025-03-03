@@ -54,7 +54,6 @@ axonix.com,57716,RESELLER,bc385f2b4a87b721
 betweendigital.com,43651,RESELLER
 betweendigital.com,43871,RESELLER
 betweendigital.com,44229,RESELLER
-bigo.sg,1203,RESELLER
 blis.com,33,RESELLER,61453ae19a4b73f4
 contextweb.com,562499,RESELLER,89ff185a4c4e857c
 contextweb.com,562757,RESELLER,89ff185a4c4e857c
@@ -293,6 +292,12 @@ yeahmobi.com,5135082,RESELLER
 yeahmobi.com,5135195,RESELLER
 yeahmobi.com,5135347,RESELLER
 yieldlab.net,2172218,RESELLER
+
+#Updated 3th marth 2025
+#Appodeal
+bigo.sg,1112518,reseller
+yandex.com,302446435,reseller
+applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
 
 
 #Updated 20th febrary 2025
