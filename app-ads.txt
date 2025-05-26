@@ -3166,3 +3166,40 @@ themediagrid.com,HIFRLS,RESELLER,35d5010d7789b49d
 adform.com,3062,RESELLER,9f5210a2f0999e32
 thebrave.io,1234769,RESELLER,c25b2154543746ac
 ssp.e-volution.ai,AJxF6R651a9M6CaTvK,RESELLER
+
+#Updated 26th may 2025
+#Yandex
+pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
+start.io, 146282053, RESELLER
+markappmedia.site, C-1054, RESELLER
+rubiconproject.com, 20086, RESELLER
+appnexus.com, 14808, RESELLER
+bidease.com, bidease_seller_19, RESELLER
+pubnative.net, 1009966, RESELLER, d641df8625486a7b
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+adagio.io, 1514, RESELLER
+inmobi.com, 6dc038804add44ffa2d5f61854f6ab33, RESELLER, 83e75a7ae333ca9d
+adbro.me, eb76b782-9af7-4536-aac7-3d280f1f6652, RESELLER
+opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
+sabio.us, 100092, RESELLER, 96ed93aaa9795702
+themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
+onetag.com, 925c32ef718e9fe, RESELLER
+smaato.com, 1100057547, RESELLER, 07bcf65f187117b4
+zmaticoo.com, 5135063, RESELLER
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER, 4ad745ead2958bf7
+media.net, 8CUSC3UJ7, RESELLER
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+verve.com, 14619, RESELLER, 0c8f5958fc2d6270
+video.unrulymedia.com, 2564526802, RESELLER, 6f752381ad5ec0e5
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
+toponad.com, 166e12f3c48018, RESELLER, 1d49fe424a1a456d
+app-stock.com,558223, RESELLER, ed8c126ea5971415
+video.unrulymedia.com, 557688749, RESELLER
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
+opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
+dauup.com, 34191, RESELLER, 4daba13e2b0dfd92
+lijit.com, 541964, RESELLER, fafdf38b16bf6b2b #SOVRN
+inmobi.com, f73add69216f42d9ba45940a548416d3, RESELLER, 83e75a7ae333ca9d
+
