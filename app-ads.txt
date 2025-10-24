@@ -10,7 +10,7 @@ Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
 
 #Updated 13th June
-#Appodeal
+#Appodeal5
 appodeal.com, 247198, DIRECT
 #BidMachine
 bidmachine.io, 247198, DIRECT
